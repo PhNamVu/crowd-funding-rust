@@ -1,0 +1,10 @@
+/Users/namvu/dev/crowd-funding/program/target/debug/deps/solana_remote_wallet-d49af10f6a3c3d8a.rmeta: /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/lib.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger_error.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/locator.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_keypair.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_wallet.rs
+
+/Users/namvu/dev/crowd-funding/program/target/debug/deps/solana_remote_wallet-d49af10f6a3c3d8a.d: /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/lib.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger_error.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/locator.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_keypair.rs /Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_wallet.rs
+
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/lib.rs:
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger.rs:
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/ledger_error.rs:
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/locator.rs:
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_keypair.rs:
+/Users/namvu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-remote-wallet-1.15.2/src/remote_wallet.rs:
